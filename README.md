@@ -1,6 +1,6 @@
 # tlangsford.github.io
 
-[https://tlangsford.github.io/]([url](https://tlangsford.github.io/))
+[[https://tlangsford.github.io/]([url](https://tlangsford.github.io/))](https://tlangsford.github.io/)
 
 My GitHub Page
 
