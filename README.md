@@ -1,7 +1,5 @@
 # tlangsford.github.io
 
-[url](https://tlangsford.github.io/)
-
-My GitHub Page
+[Comparative Judgement](https://tlangsford.github.io/)
 
 Home site for my Comparative Judgement App in case it becomes part of my masters assignment.
